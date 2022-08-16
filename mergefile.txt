@@ -1,0 +1,5 @@
+Template|mergefield1|mergefield2|mergefield3|mergefield4|mergefield5|mergefield6
+TestTemplateA|John Doe|parachute|jetpack|$100.00||
+TestTemplateB|John Doe|jetpack|01/01/1990|$50 ACME Gift Card|five lucky winners|
+TestTemplateA|Jane Doe|hang glider|jetpack|$300.00||
+TestTemplateB|Jane Doe|parachute|01/01/1991|$250 ACME Gift Card|one lucky winner|
